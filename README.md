@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 core folder would contain the core features of the app written in dart code (mostly) 
 src folder would contain the screens or pages
 
+## Domain 
+ - including business logic(not bloc business logic) and trigger events from presentation
+ - 
